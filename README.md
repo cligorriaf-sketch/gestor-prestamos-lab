@@ -4,9 +4,6 @@ Aplicación React + TypeScript para consultar el inventario del laboratorio univ
 
 Repositorio público: [github.com/cligorriaf-sketch/gestor-prestamos-lab](https://github.com/cligorriaf-sketch/gestor-prestamos-lab)
 
-Documentación completa de la entrega: `Documentacion_Prestamos_Lab_0902-22-7467_Final.docx`.
-PDF final para entregar en Canvas: `Documentacion_Prestamos_Lab_0902-22-7467_Final.pdf`.
-
 ## Variante implementada
 
 - Carné: `0902-22-7467` (último dígito: **7**).
@@ -73,4 +70,4 @@ Para comprobar la API se puede abrir `http://localhost:3001/equipos` o `http://l
 
 ## Evidencia de entrega
 
-Los datos iniciales incluyen un préstamo vencido para que se pueda verificar la fila resaltada y el contador del encabezado. Para volver a capturar el estado de error, detén `json-server` y recarga la página; el botón **Reintentar** aparecerá junto al mensaje. El PDF final de Canvas reúne la portada, el enlace público, las capturas y las respuestas de reflexión.
+Los datos iniciales incluyen un préstamo vencido para que se pueda verificar la fila resaltada y el contador del encabezado. Para volver a capturar el estado de error, detén `json-server` y recarga la página; el botón **Reintentar** aparecerá junto al mensaje.
