@@ -73,4 +73,4 @@ Para comprobar la API se puede abrir `http://localhost:3001/equipos` o `http://l
 
 ## Evidencia de entrega
 
-Los datos iniciales incluyen un préstamo vencido para que se pueda verificar la fila resaltada y el contador del encabezado. Para capturar el estado de error, detén `json-server` y recarga la página; el botón **Reintentar** aparecerá junto al mensaje de error. La portada, capturas y enlace del repositorio público deben añadirse al PDF que se subirá a Canvas.
+Los datos iniciales incluyen un préstamo vencido para que se pueda verificar la fila resaltada y el contador del encabezado. Para volver a capturar el estado de error, detén `json-server` y recarga la página; el botón **Reintentar** aparecerá junto al mensaje. El PDF final de Canvas reúne la portada, el enlace público, las capturas y las respuestas de reflexión.
