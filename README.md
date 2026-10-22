@@ -2,6 +2,10 @@
 
 Aplicación React + TypeScript para consultar el inventario del laboratorio universitario y registrar/devolver préstamos. La información se guarda en una API REST local con `json-server`.
 
+Repositorio público: [github.com/cligorriaf-sketch/gestor-prestamos-lab](https://github.com/cligorriaf-sketch/gestor-prestamos-lab)
+
+Documentación completa de la entrega: `Documentacion_Prestamos_Lab_0902-22-7467_Final.docx`.
+
 ## Variante implementada
 
 - Carné: `0902-22-7467` (último dígito: **7**).
