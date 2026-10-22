@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+Documentacion_Prestamos_Lab_0902-22-7467.docx
 
 # Editor directories and files
 .vscode/*

@@ -5,6 +5,7 @@ Aplicación React + TypeScript para consultar el inventario del laboratorio univ
 Repositorio público: [github.com/cligorriaf-sketch/gestor-prestamos-lab](https://github.com/cligorriaf-sketch/gestor-prestamos-lab)
 
 Documentación completa de la entrega: `Documentacion_Prestamos_Lab_0902-22-7467_Final.docx`.
+PDF final para entregar en Canvas: `Documentacion_Prestamos_Lab_0902-22-7467_Final.pdf`.
 
 ## Variante implementada
 
